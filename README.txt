@@ -1,4 +1,4 @@
-Team Principles
+##Team Principles
     - TDD.
     - Kanban.
     - Continuous delivery.
@@ -6,10 +6,10 @@ Team Principles
     - Squad service ownership.
     - Frequent delivery to production.
 
-Problem statement
+##Problem statement
     We would like you to develop a small piece of code to implement a simple HTTP service to represent a phone book.
 
-Acceptance criteria.
+##Acceptance criteria.
     - List all entries in the phone book.
     - Create a new entry to the phone book.
     - Remove an existing entry in the phone book.
@@ -21,4 +21,3 @@ Acceptance criteria.
         - Address (optional)
 
 The solution can be in any language (Whatever language you are most comfortable in). Please upload your project to github and provide us with the URL.
-We are not looking for a client or UI for this solution, a simple HTTP based service will suffice.
